@@ -123,7 +123,5 @@ print("Predicted Label:", id_to_label[predicted_class_id])
 - **Domain specificity:**  
   The model is fine-tuned on the SANAD dataset's topics and text style. Performance on other Arabic dialects, genres, or domains may be lower.
 
-Many Thanks,
 
-Aiman Ghannami
 
